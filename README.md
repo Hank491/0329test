@@ -8,4 +8,4 @@
 ```
 <br>
 
-[連結](https://www.openoffice.org/zh-tw/download/index.html))
+[連結](https://markdown.tw/)
